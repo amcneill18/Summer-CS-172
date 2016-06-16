@@ -6,7 +6,8 @@ using namespace std;
 class Theater
 {
 private:
-
+//PT -- you'll need an array to store each movie that gets added. That way GetMovie and GetShowTime can search the array.
+//     Arrays and objects are a pretty key part of this exam.
 	string Name;
 	string Phone;
 	int PopcornPrice = 4;
