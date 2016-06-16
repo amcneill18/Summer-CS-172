@@ -7,6 +7,7 @@ using namespace std;
 class Movie
 {
 private:
+//PT -- these shouldn't be static. Each movie object will have its own title, genre, and showtime.
 	static string Title;
 	static string Genre;
 	static int ShowTime;
