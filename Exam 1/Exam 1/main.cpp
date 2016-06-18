@@ -5,6 +5,9 @@
 //CS 172
 //Exam 1
 
+//PT -- Having the theater track the array of movie objects would make the rest of this work well.
+//PT -- 78/100
+
 #include <iostream>
 #include <string>
 #include "Movie.h"
