@@ -9,6 +9,8 @@
 //
 //class Fan {
 //public:
+//PT -- Don't make these public. Use accessor and mutator functions instead
+//16/20
 //    int speed;
 //    bool on;
 //    double wingRadius;
@@ -148,6 +150,8 @@
 //
 //class EvenNumber {
 //public:
+//PT -- private value, not public
+//PT -- 17/20
 //    int value;
 //    EvenNumber()
 //    {
@@ -196,12 +200,14 @@
 //    string sort(string& s)
 //
 //    {
+//PT -- this won't quite work. And I want you to implement sort, not simply call a built-in function
+//PT -- 15/20
 //        sort(s.begin(), s.end());
 //        return s;
 //    }
 
 //EX03_05
-//
+// PT -- 18/20
 //#include <iostream>
 //#include <string>
 //using namespace std;
@@ -250,6 +256,7 @@
 //            }
 //            else
 //            {
+//PT -- need to check all factors, and not just two (you're exiting the loop early)
 //                return true;
 //            }
 //        }
