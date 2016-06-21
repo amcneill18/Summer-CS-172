@@ -1,3 +1,8 @@
+//PT -- this is all fine, though EX04_04 and EX04_05 are missing. And I would like to see you not have to comment things out
+// and instead use functions to get this all together.
+
+//PT -- 60/100
+
 //Andrew McNeill
 //CS 172
 //EX04
