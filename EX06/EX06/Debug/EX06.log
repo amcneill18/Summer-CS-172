@@ -1,0 +1,5 @@
+﻿  complex.cpp
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\ex06\ex06\complex.cpp(109): warning C4715: 'Complex::operator[]': not all control paths return a value
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\ex06\ex06\complex.cpp(141): warning C4172: returning address of local variable or temporary: in
+complex.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Complex::toString(void)const " (?toString@Complex@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Complex const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVComplex@@@Z)
+C:\Users\Andrew\Desktop\College\7Summer Term 2016\Summer-CS-172\EX06\Debug\EX06.exe : fatal error LNK1120: 1 unresolved externals
