@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\exam2\exam2\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\exam2\exam2\source.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\exam2\exam2\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  Runner.cpp
+  Generating Code...
+  Exam2.vcxproj -> C:\Users\Andrew\Desktop\College\7Summer Term 2016\Summer-CS-172\Exam2\Debug\Exam2.exe
