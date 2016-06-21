@@ -1,3 +1,6 @@
+//PT -- Good work, but missing 03 and 05
+//PT -- 60/100
+
 //Andrew McNEill
 //CS 172
 //EX05
