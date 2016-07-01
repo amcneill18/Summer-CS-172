@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  MathTutor.cpp
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\final project\final project\final project\mathtutor.cpp(45): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andrew\desktop\college\7summer term 2016\summer-cs-172\final project\final project\final project\mathtutor.cpp(128): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\Andrew\Desktop\College\7Summer Term 2016\Summer-CS-172\Final Project\Final Project\Debug\Final Project.exe
